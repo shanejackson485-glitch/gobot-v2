@@ -14,6 +14,7 @@ bot testing.zip
 
 # Environment
 .env
+.env.example
 
 # IDE
 .idea/
